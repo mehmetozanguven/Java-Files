@@ -1,0 +1,1 @@
+Write a Java program that simulates rolling a pair of dice until the total on the dice comes up to be a given number. The number that you are rolling for should be a parameter to a method. The parameter should be one of the possible totals: 2, 3, ..., 12. The method should throw an IllegalArgumentException if this is not the case.

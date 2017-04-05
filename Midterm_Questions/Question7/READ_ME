@@ -1,0 +1,3 @@
+Suppose that names arraylist contains names, which are of type String. Write a
+method in Java that removes the names having the given character from the
+arraylist. Use indexOf(int ch) method of String class, which returns the index(an integer value) within this string of the first occurrence of the specified character or -1 if the character does not occur.

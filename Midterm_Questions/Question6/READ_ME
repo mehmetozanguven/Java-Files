@@ -1,0 +1,11 @@
+Write Table, Person, and Simulation classes in Java that keep track of persons
+on a U shape table. The table have a capacity of 2N+1 person. One person sits at
+the head of the table and there are N seats on each side of the table. There is a
+rule that persons preferring cheese sit on one side of the table and persons
+preferring dessert sit on the other side of the table. The person, who does not like
+either cheese or dessert, sits at the head of the table. The table class’s methods
+should include: (a) a constructor; (b) a method that returns the number of
+persons sitting on the table or the number of persons with the same taste; (c) a
+method that adds a new person to the table; (d) a method that removes a certain
+person (known by a PID) or a group of person with the same taste from the
+table; (e) a method that prints out the table.

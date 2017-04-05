@@ -1,0 +1,2 @@
+A truck company has at most 10 trucks. In a day, each truck of this company
+loads a cargo from a city and carries it to another city using a route. If the cargo is heavier than 1 ton, the company charges 200 TL otherwise it charges 100 TL. The company charges for each 100 km an extra 100 TL. Write necessary classes including Simulation class and methods in Java for the calculation of daily performance (total weight carried, total distance traveled, total amount charged) of the company.
